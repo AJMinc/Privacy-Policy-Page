@@ -59,7 +59,3 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 ### Contact
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at: ajm.inc@hotmail.com
 
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
