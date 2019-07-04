@@ -54,5 +54,5 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 
 ### Contact
-If you have any questions about my Privacy Policy, do not hesitate to contact me at: ajm.app@hotmail.com
+If you have any questions about my Privacy Policy, do not hesitate to contact me at: **ajm.app@hotmail.com**
 
