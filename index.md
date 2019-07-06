@@ -26,15 +26,15 @@ This Service does not use these “cookies” explicitly. However, the app may u
 ### Service Providers
 Apps created may employ third-party companies and individuals due to the following reasons:
 
-**To facilitate our Service;**
+**To facilitate their Service;**
 
-**To provide the Service on our behalf;**
+**To provide the Service on their behalf;**
 
 **To perform Service-related services; or**
 
-**To assist us in analyzing how our Service is used.**
+**To assist them in analyzing how their Service is used.**
 
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on their behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
 
 ### Security
@@ -50,7 +50,7 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 
 ### Changes to This Privacy Policy
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+I may update this Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
 
 ### Contact
