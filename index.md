@@ -56,3 +56,4 @@ I may update this Privacy Policy from time to time. Thus, you are advised to rev
 ### Contact
 If you have any questions about my Privacy Policy, do not hesitate to contact me at: <a href="ajm.app@hotmail.com">ajm.app@hotmail.com</a>
 
+<a href="https://ajminc.github.io/AJM-App-Page/">Click here</a> to go back to main page.
